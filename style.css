@@ -305,7 +305,7 @@ max-width: 80%;
 
 .service-background {
 
-margin-top: 15rem;
+margin-top: 10rem !important;
 background-image: url('images/service-imageoptimised.jpg');
 background-repeat: no-repeat;
 background-size: cover;
