@@ -566,7 +566,7 @@ margin-top: 5rem !important;
 margin-left: 0rem !important;
 height: 30rem !important;
 padding-bottom: 5rem;
-background: red;
+
 
 }
 
@@ -1869,7 +1869,7 @@ padding-top: 5rem;
 border: none;
 height: 34rem !important;
 width: 110%;
-background: red !important;
+background: transparent !important;
 
 }
 }
@@ -1898,7 +1898,7 @@ padding-top: 5rem;
 border: none;
 height: 34rem !important;
 width: 110%;
-background: red !important;
+background: transparent !important;
 
 }
 }
@@ -1927,7 +1927,7 @@ padding-top: 5rem;
 border: none;
 height: 34rem !important;
 width: 110%;
-background: red !important;
+background: transparent !important;
 
 }
 }
@@ -1954,7 +1954,7 @@ padding-top: 5rem;
 border: none;
 height: 34rem !important;
 width: 110%;
-background: red !important;
+background: transparent !important;
 
 }
 }
