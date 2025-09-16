@@ -2665,7 +2665,7 @@ height: 25rem;
 width: 99.9% !important;
 margin-top: 0.1rem;
 margin-left: 0.5px;
-background: red !important;
+background: transparent;
 padding-top: 3rem !important;
 
 }
@@ -2743,7 +2743,7 @@ margin-left: 0px !important;
 border: none;
 width: 100% !important;
 height: 15rem !important;
-background: red;
+background: transparent;
 
 }
 
@@ -2797,6 +2797,7 @@ font-size: 2px;
 
 width: 110%;
 margin-left: 0.8rem !important;
+margin-bottom: 5rem;
 margin-top: 5rem !important;
 height: 25rem !important;
 padding-bottom: 5rem;
